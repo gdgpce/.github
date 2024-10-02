@@ -26,7 +26,7 @@ Your contributions are what make this community thrive! ✨
 ## 📢 Get Involved
 Join us on our journey to becoming better developers, designers, and tech enthusiasts. Follow us for event updates, projects, and opportunities to learn and grow.
 
-- 🔗 **[GDG Community Page](https://developers.google.com/community/gdg)**
+- 🔗 **[GDG Community Page](gdg.community.dev/gdg-on-campus-pillai-college-of-engineering-navi-mumbai-india/)**
 - 🔗 **[Pillai College of Engineering Website](https://www.pce.ac.in)**
 
 ---
